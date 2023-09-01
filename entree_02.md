@@ -2,22 +2,19 @@
 ## Présentation des liens
 Choisissez cinq oeuvres multimédia. Expliquez en quoi ces dernières pourraient contribuer à votre démarche artistique? Pourquoi vous intéressent-t-elles? Comme titre, mettez un lien vers un site relié à votre oeuvre. Écrire 2 à 3 lignes par lien.
 
-Exemple: 
-### [Bulle](https://www.onf.ca/interactif/bulle/) 
-L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
+### [HILL CLIMB RACING 2](https://hillclimbracing2.fandom.com/wiki/Hill_Climb_Racing_2_Wiki)
+j'ai choisi hill climb racing 2 car c'est un jeu avec des graphique simple en 2d avec divers maps et objet avec lesquel ont peut intéragir. Il permet de s'amuser tout en reflchissant au différente piece besoin. La créativité et la logique des graphique sont des ascept qui m'interesse.
 
-### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [ROBLOX](https://www.roblox.com/) 
+J'ai choisi roblox car tu peux cree et jouer a une multitude de jeu différent. Ils nous permet d'etree créatif et de s'amuser. Il m'interesse car le concept de plateforme ou tu cree tes propre jeu dans un jeu sont tres populaire
 
-### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+### [SnowRunner](https://store.steampowered.com/app/1465360/SnowRunner/) 
+Snow runner est un jeu qui consiste a te promener dans un open world ou faire des defi. Le concept de choix de l'utisteur et de open world est un concept tres intéressant pour les utlisateur. Jeu de simulation.  
 
-### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
+### [Beamngdrive](https://www.beamng.com/) 
+Jeu de simulation tres realiste de conduite et de destruciton de la vrai vie. Peut nous permettre de voir ce qui arriverais a notre voiture ou nous meme en cas d'impact. Peut etre utulise comme un avertisement en cas de mauvaise conduite.
 
-### Lien 4 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [fortnite](https://www.fortnite.com/?lang=fr) 
+Jeu ou tu peux construire ou tirer avec des arme non violent pour tous age. Jeu tres rageant pour les jeune. Jeu qui est tres pay to win donc c'est un concept que je ne voudrais pas reproduire et qui pourais me servir d'example a pas faire
 
-### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien. 
 
