@@ -9,7 +9,7 @@ j'ai choisi hill climb racing 2 car c'est un jeu avec des graphique simple en 2d
 J'ai choisi roblox car tu peux cree et jouer a une multitude de jeu différent. Ils nous permet d'etree créatif et de s'amuser. Il m'interesse car le concept de plateforme ou tu cree tes propre jeu dans un jeu sont tres populaire
 
 ### [SnowRunner](https://store.steampowered.com/app/1465360/SnowRunner/) 
-Snow runner est un jeu qui consiste a te promener dans un open world ou faire des defi. Le concept de choix de l'utisteur et de open world est un concept tres intéressant pour les utlisateur. Jeu de simulation.  
+Snow runner est un jeu qui consiste a te promener dans un open world ou faire des defi. Le concept de choix de l'utilisateur et de open world est un concept tres intéressant pour les utilisateur. Jeu de simulation.  
 
 ### [Beamngdrive](https://www.beamng.com/) 
 Jeu de simulation tres realiste de conduite et de destruciton de la vrai vie. Peut nous permettre de voir ce qui arriverais a notre voiture ou nous meme en cas d'impact. Peut etre utulise comme un avertisement en cas de mauvaise conduite.
