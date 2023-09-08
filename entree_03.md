@@ -5,7 +5,7 @@
 Je suis un garcon debrouillard, bon en informatique, généreux. J'adore tout ce qui touche a l'aspect électronique.
 
 ### Intérêts dans le domaine
-Mes intérêts en multimédia sont, jeu video, creation site web. Jeu video, car j'aimerais apprendre a crée un jeu vidéo. Creation site web ca je pourais crée des bon site web et bien savoir comment en crée un attirant.
+Mes intérêts en multimédia sont, jeu video, creation site web. Jeu video, car j'aimerais apprendre a crée un jeu vidéo. de A à Z. Creation site web car, je pourais crée des bon sites webs et bien savoir comment en crée un attirant et amusant.
 
 ### Emplois qui vous intéressent
 Deux emplois qui m'interesse sont, 
